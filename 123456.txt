@@ -1,0 +1,12 @@
+123456
+7890
+7500.0
+0.33
+Deposit
+3000.0
+Deposit
+4000.0
+Withdrawal
+2000.0
+Deposit
+2500.0
